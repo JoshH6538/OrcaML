@@ -1,3 +1,4 @@
 data/wav/
 data/clips/
 *.tar.gz
+venv/
